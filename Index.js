@@ -1,3 +1,4 @@
+var bandera= false;
 function validar()
 {
     var bandera= false;
